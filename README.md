@@ -1,0 +1,1 @@
+# gaplash_bot.php
